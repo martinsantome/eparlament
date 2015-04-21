@@ -1,3 +1,7 @@
+3er premio HackForGood (Sevilla) 2015 
+========
+This APP won third place on April's hackaton.
+
 SmartLAMENT APP plugin (presentation marketing splash-scena)
 ============
 
